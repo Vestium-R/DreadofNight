@@ -1,0 +1,47 @@
+{
+    "name": "dreadofnight",
+    "title": "Dread of Night",
+    "description": "The land of Gradina has been plagued by relentless beasts, horrors unseen, and despair beyond imagination since an event deemed 'The Day of Beasts'. This module comes with all content required to enjoy this supplement",
+    "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "authors": [
+    {
+      "name": "Vestium",
+      "url": "https://github.com/",
+      "discord": "Vestium#8078",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "dreadofnight.js"
+  ],
+  "styles": [
+    "styles/module.css"
+  ],
+  "scripts": [
+  "scripts/mastery.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json",
+      "flags": {}
+    }
+  ],
+    "packs": [
+        {
+            "name": "module-dreadofnight",
+            "label": "The Dread of Night",
+            "path": "./packs/the-dread-of-night.db",
+            "type": "Adventure",
+      	    "system": "pbta"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }
