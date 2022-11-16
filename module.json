@@ -2,16 +2,16 @@
     "name": "dreadofnight",
     "title": "Dread of Night",
     "description": "The land of Gradina has been plagued by relentless beasts, horrors unseen, and despair beyond imagination since an event deemed 'The Day of Beasts'. This module comes with all content required to enjoy this supplement",
-    "version": "1.0.0",
+   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
-    "maximum": "10"
+    "maximum": "11"
   },
   "authors": [
     {
       "name": "Vestium",
-      "url": "https://github.com/",
+      "url": "https://github.com/Vestium-R/DreadofNight",
       "discord": "Vestium#8078",
       "flags": {}
     }
@@ -42,6 +42,9 @@
       	    "system": "pbta"
         }
     ],
-    "manifest": "",
-    "download": ""
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE",
+  "readme": "README.md"
   }
