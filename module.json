@@ -2,7 +2,7 @@
     "name": "dreadofnight",
     "title": "Dread of Night",
     "description": "The land of Gradina has been plagued by relentless beasts, horrors unseen, and despair beyond imagination since an event deemed 'The Day of Beasts'. This module comes with all content required to enjoy this supplement",
-    "version": "1.0.0",
+"version": "#{VERSION}#",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
@@ -42,6 +42,7 @@
       	    "system": "pbta"
         }
     ],
-    "manifest": "",
-    "download": ""
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   }
