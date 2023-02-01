@@ -40,6 +40,13 @@
             "path": "./packs/the-dread-of-night.db",
             "type": "Adventure",
       	    "system": "pbta"
+        },
+        {
+            "name": "module-dreadofnightjournal",
+            "label": "The Dread of Night - Getting Started!",
+            "path": "./packs/the-dread-of-night-journal.db",
+            "type": "JournalEntry",
+      	    "system": "pbta"
         }
     ],
   "url": "#{URL}#",
