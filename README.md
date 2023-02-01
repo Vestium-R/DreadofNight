@@ -9,5 +9,4 @@ To use this module:
 2. Create a world with the Powered by the Apolocypse system selected
 3. Load into the world and open module management setting
 4. Enable the Dread of Night module
-5. Open the Compendiums and find the adventure
-6. Select Import Adventure and open the Getting Started! (Read me) Journal entry to import the custom Character Sheet
+5. Open the Compendiums and find the getting started journal to get started!
